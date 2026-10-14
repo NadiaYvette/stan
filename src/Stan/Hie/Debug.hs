@@ -18,4 +18,6 @@ import Stan.Hie.Debug908 as Compat
 import Stan.Hie.Debug908 as Compat
 #elif __GLASGOW_HASKELL__ == 912
 import Stan.Hie.Debug908 as Compat
+#elif __GLASGOW_HASKELL__ == 914
+import Stan.Hie.Debug908 as Compat
 #endif
